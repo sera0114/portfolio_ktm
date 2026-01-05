@@ -1,0 +1,648 @@
+%!Adobe-FontList 1.25
+%Locale:0x412
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\Ash.eot
+FileModTime:1644147446
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Ash
+FamilyName:Ash
+StyleName:Regular
+FullName:Ash
+MenuName:Ash
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\Ash.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:27056
+FileModTime:1644147446
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Ash
+NameArray:0,Win,1,Ash
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ash
+FamilyName:Ash
+StyleName:Regular
+FullName:Ash
+MenuName:Ash
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\Ash.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:21108
+FileModTime:1644147446
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Ash
+NameArray:0,Win,1,Ash
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\Ash.woff
+FileModTime:1644147446
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\Ash.woff2
+FileModTime:1644147446
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\NotoSansKR-Bold.eot
+FileModTime:1644147446
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansKR-Bold
+FamilyName:Noto Sans KR
+StyleName:Bold
+FullName:Noto Sans KR Bold
+MenuName:Noto Sans KR Bold
+StyleBits:0
+FamilyNameNative:Noto Sans KR
+StyleNameNative:Bold
+FullNameNative:Noto Sans KR Bold
+WritingScript:Korean
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\NotoSansKR-Bold.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:2334176
+FileModTime:1644147446
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans KR Bold
+NameArray:0,Win,16,Noto Sans KR
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSansKR-Bold-Alphabetic
+FamilyName:NotoSansKR-Bold-Alphabetic
+StyleName:Bold-Alphabetic
+FullName:NotoSansKR-Bold-Alphabetic
+MenuName:NotoSansKR-Bold-Alphabetic
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\NotoSansKR-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:6696
+FileModTime:1644147446
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\NotoSansKR-Bold.woff
+FileModTime:1644147446
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\NotoSansKR-Bold.woff2
+FileModTime:1644147446
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansKR-Medium
+FamilyName:Noto Sans KR
+StyleName:Medium
+FullName:Noto Sans KR Medium
+MenuName:Noto Sans KR Medium
+StyleBits:0
+FamilyNameNative:Noto Sans KR
+StyleNameNative:Medium
+FullNameNative:Noto Sans KR Medium
+WritingScript:Korean
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\NotoSansKR-Medium.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:2230732
+FileModTime:1644147446
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans KR Medium
+NameArray:0,Win,16,Noto Sans KR
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSansKR-Medium-Alphabetic
+FamilyName:NotoSansKR-Medium-Alphabetic
+StyleName:Medium-Alphabetic
+FullName:NotoSansKR-Medium-Alphabetic
+MenuName:NotoSansKR-Medium-Alphabetic
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\NotoSansKR-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:6456
+FileModTime:1644147446
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\NotoSansKR-Medium.woff
+FileModTime:1644147446
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\NotoSansKR-Regular.eot
+FileModTime:1644147446
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansKR-Regular
+FamilyName:Noto Sans KR
+StyleName:Regular
+FullName:Noto Sans KR
+MenuName:Noto Sans KR Regular
+StyleBits:0
+FamilyNameNative:Noto Sans KR
+StyleNameNative:Regular
+FullNameNative:Noto Sans KR Regular
+WritingScript:Korean
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\NotoSansKR-Regular.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:2227620
+FileModTime:1644147446
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans KR Regular
+NameArray:0,Win,16,Noto Sans KR
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NotoSansKR-Regular-Alphabetic
+FamilyName:NotoSansKR-Regular-Alphabetic
+StyleName:Regular-Alphabetic
+FullName:NotoSansKR-Regular-Alphabetic
+MenuName:NotoSansKR-Regular-Alphabetic
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\NotoSansKR-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:6680
+FileModTime:1644147446
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\NotoSansKR-Regular.woff
+FileModTime:1644147446
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\NotoSansKR-Regular.woff2
+FileModTime:1644147446
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\SFProDisplay-Bold.eot
+FileModTime:1644147446
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFProDisplay-Bold
+FamilyName:SF Pro Display
+StyleName:Bold
+FullName:SF Pro Display Bold
+MenuName:SF Pro Display
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\SFProDisplay-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:597032
+FileModTime:1644147446
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SF Pro Display Bold
+NameArray:0,Win,1,SF Pro Display
+NameArray:0,Win,16,SF Pro Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SFProDisplay-Bold
+FamilyName:SF Pro Display
+StyleName:Bold
+FullName:SF Pro Display Bold
+MenuName:SF Pro Display
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\SFProDisplay-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:422164
+FileModTime:1644147446
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SF Pro Display Bold
+NameArray:0,Win,1,SF Pro Display
+NameArray:0,Win,16,SF Pro Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\SFProDisplay-Bold.woff
+FileModTime:1644147446
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\SFProDisplay-Bold.woff2
+FileModTime:1644147446
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFProDisplay-Medium
+FamilyName:SF Pro Display
+StyleName:Medium
+FullName:SF Pro Display Medium
+MenuName:SF Pro Display
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\SFProDisplay-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:610024
+FileModTime:1644147446
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SF Pro Display Medium
+NameArray:0,Win,1,SF Pro Display
+NameArray:0,Win,16,SF Pro Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\SFProDisplay-Medium.woff
+FileModTime:1644147446
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\SFProDisplay-Medium.woff2
+FileModTime:1644147446
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFProText-Regular
+FamilyName:SF Pro Text
+StyleName:Regular
+FullName:SF Pro Text Regular
+MenuName:SF Pro Text
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\SFProDisplay-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:534084
+FileModTime:1644147446
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SF Pro Text Regular
+NameArray:0,Win,1,SF Pro Text
+NameArray:0,Win,16,SF Pro Text
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\SFProDisplay-Regular.woff
+FileModTime:1644147446
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\SFProDisplay-Regular.woff2
+FileModTime:1644147446
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFProText-Semibold
+FamilyName:SF Pro Text
+StyleName:Semibold
+FullName:SF Pro Text Semibold
+MenuName:SF Pro Text
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\SFProDisplay-SemiBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:586856
+FileModTime:1644147446
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SF Pro Text Semibold
+NameArray:0,Win,1,SF Pro Text
+NameArray:0,Win,16,SF Pro Text
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\SFProDisplay-SemiBold.woff2
+FileModTime:1644147446
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\SFProDisplay-Semibold.woff
+FileModTime:1644147446
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFProKRDisplay
+FamilyName:SFProKRDisplay
+StyleName:Bold
+FullName:SFProKRDisplay
+MenuName:SFProKRDisplay
+StyleBits:2
+FamilyNameNative:SFProKRDisplay
+StyleNameNative:Bold
+FullNameNative:SFProKRDisplay Bold
+WritingScript:Korean
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\SFProKRDisplay_Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:4009572
+FileModTime:1644147446
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SFProKRDisplay
+NameArray:0,Win,1,SFProKRDisplay
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\SFProKRDisplay_Bold.woff
+FileModTime:1644147446
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFProKRDisplay
+FamilyName:SFProKRDisplay
+StyleName:Medium
+FullName:SFProKRDisplay
+MenuName:SFProKRDisplay
+StyleBits:0
+FamilyNameNative:SFProKRDisplay
+StyleNameNative:Medium
+FullNameNative:SFProKRDisplay Medium
+WritingScript:Korean
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\SFProKRDisplay_Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:3960704
+FileModTime:1644147446
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SFProKRDisplay
+NameArray:0,Win,1,SFProKRDisplay
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\SFProKRDisplay_Medium.woff
+FileModTime:1644147446
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\SFProKRDisplay_Regular.eot
+FileModTime:1644147446
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFProKRDisplay
+FamilyName:SFProKRDisplay
+StyleName:Regular
+FullName:SFProKRDisplay
+MenuName:SFProKRDisplay
+StyleBits:0
+FamilyNameNative:SFProKRDisplay
+StyleNameNative:Regular
+FullNameNative:SFProKRDisplay Regular
+WritingScript:Korean
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\SFProKRDisplay_Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:4069488
+FileModTime:1644147446
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SFProKRDisplay
+NameArray:0,Win,1,SFProKRDisplay
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\SFProKRDisplay_Regular.woff
+FileModTime:1644147446
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SFProKRDisplay
+FamilyName:SFProKRDisplay
+StyleName:Semibold
+FullName:SFProKRDisplay
+MenuName:SFProKRDisplay
+StyleBits:0
+FamilyNameNative:SFProKRDisplay
+StyleNameNative:Semibold
+FullNameNative:SFProKRDisplay Semibold
+WritingScript:Korean
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\SFProKRDisplay_SemiBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:3429508
+FileModTime:1644147446
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SFProKRDisplay
+NameArray:0,Win,1,SFProKRDisplay
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\SFProKRDisplay_SemiBold.woff
+FileModTime:1644147446
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\SFProKRDisplay_bold.woff2
+FileModTime:1644147446
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\SFProKRDisplay_medium.woff2
+FileModTime:1644147446
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\SFProKRDisplay_regular.woff2
+FileModTime:1644147446
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\aa\Desktop\세라\클론\★ Portfolio_3.Responsive-main(나이키리뉴얼)\Font\SFProKRDisplay_semibold.woff2
+FileModTime:1644147446
+%EndFont
+
